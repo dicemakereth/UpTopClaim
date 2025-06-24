@@ -1,5 +1,8 @@
 # TokenTable Airdrop Claim 自动化脚本
 
+> **声明**: 代码完全开源，你的私钥只会保存在你本地，不会任何上传。  
+> **作者**: 骰子哥，Twitter：[@dice_maker](https://x.com/dice_maker)
+
 这是一个用于自动化领取 TokenTable UPTOP 空投的 Node.js 脚本，运行在 BSC 网络上。
 
 ## 功能特性
