@@ -1,0 +1,20 @@
+{
+  "name": "uptop-claim-script",
+  "version": "1.0.0",
+  "description": "TokenTable airdrop claim automation script",
+  "main": "claim.js",
+  "scripts": {
+    "start": "node claim.js",
+    "test": "node test.js",
+    "test-threshold": "node test-threshold.js",
+    "check-balance": "node check-balance.js"
+  },
+  "dependencies": {
+    "ethers": "^6.8.1",
+    "axios": "^1.6.0",
+    "fs": "^0.0.1-security"
+  },
+  "keywords": ["ethereum", "airdrop", "claim", "automation"],
+  "author": "",
+  "license": "MIT"
+} 
